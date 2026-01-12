@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/{nickjulius}/{nickjulius}/blob/main/software-developer.png" alt="Banner of a developer sitting in front of a desk">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Florence+Gayle!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Florence!;" />
 </h1>
 
 ### A full-stack software engineer passionate about building beautiful, functional, and user-centric web applications.
@@ -31,3 +31,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
 
 <br>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+</p>
+
+<hr>
+<hr>
